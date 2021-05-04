@@ -1,0 +1,8 @@
+#NODE.JS Files
+**/node_modules
+
+#OS Files
+.DS_Store
+
+#API Keys
+**/.env
