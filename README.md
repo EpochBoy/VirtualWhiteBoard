@@ -53,7 +53,7 @@ Sam wants to add Jennifer. I didn't do this part, but I decided to opt. for self
 
 PS: 
 
-I tried to deploy the API to my own server. Argus tunnel wasn't playing nice with nginx, so I to put that on hold and focus on getting things done.
+I tried to deploy the API to my own server. Argus tunnel wasn't playing nice with nginx, so I had to put that on hold and focus on getting things done.
 
 Brgds
 Fredrik
