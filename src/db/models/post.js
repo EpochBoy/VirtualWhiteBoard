@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 const validator = require('validator');
 
+// Fix posts Schema for timestamps
 // Explicitly making title/description none mandatory, so a user can just post an URL
 const Post = mongoose.model('Post', {
 	title: {
